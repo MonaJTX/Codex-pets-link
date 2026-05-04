@@ -1,5 +1,11 @@
 <div align="center">
 
+**🌐 Language / 语言**
+
+[English](#english) | [中文](#中文)
+
+---
+
 # 🗡️ Link Pet for Codex
 
 **A brave chibi Link companion for your Codex terminal**
@@ -9,9 +15,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Codex Pet](https://img.shields.io/badge/Codex-Pet-blue.svg)](https://github.com/openai/codex)
 
-[English](#english) | [中文](#中文)
-
 </div>
+
+> **⚠️ Disclaimer / 免责声明**
+>
+> This is a **free, non-commercial fan project**. The Legend of Zelda and all related characters are trademarks of **Nintendo**. This project is not affiliated with, endorsed by, or sponsored by Nintendo in any way. No copyright infringement intended.
+>
+> 这是一个**免费的、非商业性质的粉丝项目**。《塞尔达传说》及相关角色是**任天堂**的商标。本项目与任天堂没有任何关联，也未获得任天堂的认可或赞助。无意侵犯版权。
 
 ---
 
@@ -20,7 +30,9 @@
 
 ### Overview
 
-A pixel-art Link (from The Legend of Zelda) pet sprite package for [OpenAI Codex](https://github.com/openai/codex). This chibi hero will accompany you during your coding adventures with 9 different animation states!
+A pixel-art Link pet sprite package for [OpenAI Codex](https://github.com/openai/codex). This chibi hero will accompany you during your coding adventures with 9 different animation states!
+
+**This project is 100% free for personal use.**
 
 ### ✨ Features
 
@@ -83,7 +95,7 @@ link-pet-open-source/
 
 ### 📝 License
 
-MIT License - Feel free to use and modify!
+MIT License - Free for personal, non-commercial use.
 
 ---
 
@@ -92,7 +104,9 @@ MIT License - Feel free to use and modify!
 
 ### 概述
 
-这是一个适用于 [OpenAI Codex](https://github.com/openai/codex) 的像素风格林克（来自《塞尔达传说》）宠物精灵包。这个Q版小英雄将在你的编程冒险中陪伴你，拥有 9 种不同的动画状态！
+这是一个适用于 [OpenAI Codex](https://github.com/openai/codex) 的像素风格林克宠物精灵包。这个Q版小英雄将在你的编程冒险中陪伴你，拥有 9 种不同的动画状态！
+
+**本项目 100% 免费，仅供个人使用。**
 
 ### ✨ 动画状态
 
@@ -155,7 +169,7 @@ link-pet-open-source/
 
 ### 📝 许可证
 
-MIT 许可证 - 欢迎使用和修改！
+MIT 许可证 - 免费供个人、非商业用途使用。
 
 ---
 
